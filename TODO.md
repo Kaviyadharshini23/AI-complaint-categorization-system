@@ -1,11 +1,11 @@
-# GitHub Push for AI Complaint Categorization System
+# GitHub Push Complete ✓
 
 ## Steps:
 - [x] 1. git init
-- [ ] 2. git add .
-- [ ] 3. git commit -m \"Initial commit\"
-- [ ] 4. git branch -M main
-- [ ] 5. git remote add origin https://github.com/Kaviyadharshini23/AI-complaint-categorization-system.git
-- [ ] 6. git push -u origin main
-- [ ] 7. Verify on GitHub and mark complete.
+- [x] 2. git add .
+- [x] 3. git commit -m \"Initial commit\"
+- [x] 4. git branch -M main
+- [x] 5. git remote add origin https://github.com/Kaviyadharshini23/AI-complaint-categorization-system.git
+- [x] 6. git push -u origin main
+- [x] 7. Verified on GitHub.
 
